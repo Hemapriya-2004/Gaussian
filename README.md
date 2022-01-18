@@ -49,7 +49,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](ss1.png)
+![gaussian elimination](https://github.com/Hemapriya-2004/Gaussian/blob/06c38c4409a8967783740c04db1e50a4055f3928/ss1.PNG)
 
 
 ## Result:
